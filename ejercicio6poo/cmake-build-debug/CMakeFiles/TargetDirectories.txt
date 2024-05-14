@@ -1,0 +1,3 @@
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio6poo/cmake-build-debug/CMakeFiles/ejercicio6poo.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio6poo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio6poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

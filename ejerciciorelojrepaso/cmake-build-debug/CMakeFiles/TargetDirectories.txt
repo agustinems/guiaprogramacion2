@@ -1,0 +1,3 @@
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejerciciorelojrepaso/cmake-build-debug/CMakeFiles/ejerciciorelojrepaso.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejerciciorelojrepaso/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejerciciorelojrepaso/cmake-build-debug/CMakeFiles/rebuild_cache.dir

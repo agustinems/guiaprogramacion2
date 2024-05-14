@@ -1,0 +1,3 @@
+﻿  ejercicio10punt.cpp
+C:\Users\AGUST\Desktop\guiaprogramacion2\ejercicio10punt\ejercicio10punt.cpp(38,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ejercicio10punt.vcxproj -> C:\Users\AGUST\Desktop\guiaprogramacion2\ejercicio10punt\x64\Debug\ejercicio10punt.exe

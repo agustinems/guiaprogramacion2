@@ -1,0 +1,8 @@
+# ninja log v5
+2	333	7363857898814921	CMakeFiles/ejercicio5poo.dir/main.cpp.obj	a6e137781e369796
+15	346	7363861390822835	CMakeFiles/ejercicio5poo.dir/main.cpp.obj	a6e137781e369796
+19	355	7363861390922922	CMakeFiles/ejercicio5poo.dir/coordenadas.cpp.obj	a8ce61ed7d965aea
+355	446	7363861391783705	ejercicio5poo.exe	eebaa3f293a76877
+42	810	7364858514515961	CMakeFiles/ejercicio5poo.dir/main.cpp.obj	a6e137781e369796
+93	811	7364858514515961	CMakeFiles/ejercicio5poo.dir/coordenadas.cpp.obj	a8ce61ed7d965aea
+811	1123	7364858517618779	ejercicio5poo.exe	eebaa3f293a76877

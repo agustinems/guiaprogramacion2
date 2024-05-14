@@ -1,0 +1,15 @@
+# ninja log v5
+3	335	7373471223032443	CMakeFiles/ejercicio11poo.dir/main.cpp.obj	e2a69b8f89ba165c
+7	343	7373471223122522	CMakeFiles/ejercicio11poo.dir/conjunto.cpp.obj	2af575a3af45835d
+344	432	7373471223983305	ejercicio11poo.exe	3c215d529478e064
+13	357	7373471923349260	CMakeFiles/ejercicio11poo.dir/main.cpp.obj	e2a69b8f89ba165c
+357	447	7373471924230061	ejercicio11poo.exe	3c215d529478e064
+4	342	7373472614407663	CMakeFiles/ejercicio11poo.dir/main.cpp.obj	e2a69b8f89ba165c
+342	428	7373472615248427	ejercicio11poo.exe	3c215d529478e064
+14	360	7373473202772684	CMakeFiles/ejercicio11poo.dir/main.cpp.obj	e2a69b8f89ba165c
+360	460	7373473203743565	ejercicio11poo.exe	3c215d529478e064
+5	345	7373473943836555	CMakeFiles/ejercicio11poo.dir/main.cpp.obj	e2a69b8f89ba165c
+346	431	7373473944667311	ejercicio11poo.exe	3c215d529478e064
+9	1038	7373475231107112	CMakeFiles/ejercicio11poo.dir/conjunto.cpp.obj	2af575a3af45835d
+4	1041	7373475231127134	CMakeFiles/ejercicio11poo.dir/main.cpp.obj	e2a69b8f89ba165c
+1041	1347	7373475234169900	ejercicio11poo.exe	3c215d529478e064

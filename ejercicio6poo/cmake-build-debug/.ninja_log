@@ -1,0 +1,12 @@
+# ninja log v5
+6	87	7365613746244603	CMakeFiles/ejercicio6poo.dir/contraseña.cpp.obj	4b6ff46a59bb19d1
+2	371	7365613749077175	CMakeFiles/ejercicio6poo.dir/main.cpp.obj	76ed533bdc0c63ce
+372	548	7365613750828773	ejercicio6poo.exe	d1eb04a2ae7a07d4
+6	344	7365614683816804	CMakeFiles/ejercicio6poo.dir/main.cpp.obj	76ed533bdc0c63ce
+344	423	7365614684597516	ejercicio6poo.exe	d1eb04a2ae7a07d4
+4	349	7365626668682677	CMakeFiles/ejercicio6poo.dir/main.cpp.obj	76ed533bdc0c63ce
+9	350	7365626668692692	CMakeFiles/ejercicio6poo.dir/contraseña.cpp.obj	4b6ff46a59bb19d1
+350	434	7365626669513438	ejercicio6poo.exe	d1eb04a2ae7a07d4
+5	347	7365632176214568	CMakeFiles/ejercicio6poo.dir/main.cpp.obj	76ed533bdc0c63ce
+9	355	7365632176294639	CMakeFiles/ejercicio6poo.dir/contraseña.cpp.obj	4b6ff46a59bb19d1
+355	436	7365632177085359	ejercicio6poo.exe	d1eb04a2ae7a07d4
