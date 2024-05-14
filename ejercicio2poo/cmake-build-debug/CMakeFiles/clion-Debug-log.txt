@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2024.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\AGUST\Desktop\guiaprogramacion2\ejercicio2poo -B C:\Users\AGUST\Desktop\guiaprogramacion2\ejercicio2poo\cmake-build-debug
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio2poo/cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\Agustin\Desktop\gtp prog 2\ejercicio2poo" -B "C:\Users\Agustin\Desktop\gtp prog 2\ejercicio2poo\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Agustin/Desktop/gtp prog 2/ejercicio2poo/cmake-build-debug

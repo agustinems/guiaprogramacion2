@@ -1,4 +1,6 @@
 # ninja log v5
-2	365	7363838336301915	CMakeFiles/ejercicio2poo.dir/main.cpp.obj	cc930f8c892e9b2c
-6	383	7363838336502093	CMakeFiles/ejercicio2poo.dir/racionales.cpp.obj	383ed0f2d9697628
-383	495	7363838337593087	ejercicio2poo.exe	1652439880443add
+4	552	7363545963643753	CMakeFiles/ejercicio2poo.dir/main.cpp.obj	53bb4ceb120d569d
+5	581	7363546294215377	CMakeFiles/ejercicio2poo.dir/racional.cpp.obj	4df4e8e57ca204f5
+582	734	7363546295705114	ejercicio2poo.exe	e85d1f8f7d2d6d0f
+5	621	7363551489928346	CMakeFiles/ejercicio2poo.dir/main.cpp.obj	53bb4ceb120d569d
+622	802	7363551491702150	ejercicio2poo.exe	e85d1f8f7d2d6d0f

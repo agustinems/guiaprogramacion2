@@ -1,3 +1,3 @@
-C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio2poo/cmake-build-debug/CMakeFiles/ejercicio2poo.dir
-C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio2poo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/AGUST/Desktop/guiaprogramacion2/ejercicio2poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Agustin/Desktop/gtp prog 2/ejercicio2poo/cmake-build-debug/CMakeFiles/ejercicio2poo.dir
+C:/Users/Agustin/Desktop/gtp prog 2/ejercicio2poo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Agustin/Desktop/gtp prog 2/ejercicio2poo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
