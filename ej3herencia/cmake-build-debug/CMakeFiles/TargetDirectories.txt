@@ -1,0 +1,3 @@
+C:/Users/AGUST/Desktop/guiaprogramacion2/ej3herencia/cmake-build-debug/CMakeFiles/ej3herencia.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ej3herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ej3herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir

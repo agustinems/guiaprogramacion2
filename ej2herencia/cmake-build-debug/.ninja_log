@@ -1,0 +1,8 @@
+# ninja log v5
+21	370	7374010465887656	CMakeFiles/ej2herencia.dir/main.cpp.obj	7c56928185709c45
+371	457	7374010466718411	ej2herencia.exe	a707d7eb6de72028
+15	418	7374023949469116	CMakeFiles/ej2herencia.dir/Empleado.cpp.obj	a7a30777531f96d3
+13	427	7374043978946156	CMakeFiles/ej2herencia.dir/Comercial.cpp.obj	362a60d66172c821
+17	429	7374043978966171	CMakeFiles/ej2herencia.dir/Repartidor.cpp.obj	7d48274ccd6d9d72
+10	433	7374043979016219	CMakeFiles/ej2herencia.dir/Empleado.cpp.obj	a7a30777531f96d3
+5	434	7374043979036237	CMakeFiles/ej2herencia.dir/main.cpp.obj	7c56928185709c45

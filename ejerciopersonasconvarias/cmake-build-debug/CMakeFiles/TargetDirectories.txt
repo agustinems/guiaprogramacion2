@@ -1,0 +1,3 @@
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejerciopersonasconvarias/cmake-build-debug/CMakeFiles/ejerciopersonasconvarias.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejerciopersonasconvarias/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ejerciopersonasconvarias/cmake-build-debug/CMakeFiles/rebuild_cache.dir

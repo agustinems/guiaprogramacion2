@@ -1,0 +1,3 @@
+C:/Users/AGUST/Desktop/guiaprogramacion2/ej4herencia2.0/cmake-build-debug/CMakeFiles/ej4herencia2_0.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ej4herencia2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AGUST/Desktop/guiaprogramacion2/ej4herencia2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
